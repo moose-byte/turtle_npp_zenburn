@@ -9,7 +9,14 @@ Overview
 --------
 This project uses the same syntax highlighting logic that can be found in the [official Notepad++ language definition for Turtle](http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=User_Defined_Language_Files).  The colors have been updated to be compatible with the Zenburn theme.  Inspiration and color values come from [thomsmits](https://github.com/thomsmits)/[markdown_npp](https://github.com/thomsmits/markdown_npp).
 
-Usage
+Prerequisites
+-------------
+If you haven't done so already, change your Notepad++ theme to Zenburn
+1. Click Settings > Style Configurator...
+2. Select Zenburn
+3. Save & Close
+
+Install
 -----
 1. Open Notepad++
 2. Click Language > Define your language...
