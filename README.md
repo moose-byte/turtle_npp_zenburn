@@ -2,6 +2,8 @@ turtle_npp_zenburn
 ===================
 
 [Turtle](http://www.w3.org/TeamSubmission/turtle/) syntax highlighting support for [Notepad++](http://notepad-plus-plus.org/) using the [Zenburn](http://slinky.imukuppi.org/zenburnpage/) theme.
+![A turtle file](screenshot.png)
+
 
 Overview
 --------
@@ -18,4 +20,3 @@ Usage
 License
 -------
 MIT: http://beedaan.mit-license.org/
-
