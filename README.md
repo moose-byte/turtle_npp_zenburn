@@ -11,7 +11,8 @@ This project uses the same syntax highlighting logic that can be found in the [o
 
 Prerequisites
 -------------
-If you haven't done so already, change your Notepad++ theme to Zenburn
+If you haven't done so already, change your Notepad++ theme to Zenburn.
+
 1. Click Settings > Style Configurator...
 2. Select Zenburn
 3. Save & Close
