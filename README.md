@@ -5,7 +5,7 @@ turtle_npp_zenburn
 
 Overview
 --------
-This project uses the same syntax highlighting logic that can be found in the [official Notepad++ language definition for Turtle](http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=User_Defined_Language_Files).  The colors have been updated to be compatible with the Zenburn theme.  Inspiration and color values come from thomsmits/markdown_npp
+This project uses the same syntax highlighting logic that can be found in the [official Notepad++ language definition for Turtle](http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=User_Defined_Language_Files).  The colors have been updated to be compatible with the Zenburn theme.  Inspiration and color values come from [thomsmits](https://github.com/thomsmits)/[markdown_npp](https://github.com/thomsmits/markdown_npp).
 
 Usage
 -----
@@ -14,4 +14,8 @@ Usage
 3. Click Import
 4. Select `turtle_npp_zenburn.xml`
 5. Restart Notepad++
+
+License
+-------
+MIT: http://beedaan.mit-license.org/
 
